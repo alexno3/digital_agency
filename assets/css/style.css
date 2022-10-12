@@ -1,0 +1,25 @@
+
+
+
+
+
+/* CUSTOM PROPERTY */
+
+:root {
+
+  /* colors */
+	--sefety-orange_10: hsla(24, 100%, 50%, 0.1);
+	--sefety-orange: hsl(24, 100%, 50%);
+	--sonic-silver: hsl(220, 1%, 48%);
+	--gunmetal_10: hsla(217, 21%, 16%, 0.1);
+	--davys-gray: hsl(220, 2%, 31%);
+	--light-gray: hsl(0, 0%, 80%);
+	--gunmetal: hsl(217, 21%, 16%);
+	--cultured: hsl(0, 0%, 95%);
+	--black_40: hsla(0, 0%, 0%, 0.4);
+	--black_25: hsla(0, 0%, 0%, 0.25);
+	--black_15: hsla(0, 0%, 0%, 0.15);
+	--white: hsl(0, 0%, 100%);
+	--snow: hsl(345, 20%, 96%);
+
+}
