@@ -48,7 +48,7 @@ const activeElemOnScroll = function () {
     }
 }
 
-addEventListener(window, 'scroll', activeElemOnScroll);
+addEventOnElem(window, 'scroll', activeElemOnScroll);
 
 
 
